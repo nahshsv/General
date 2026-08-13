@@ -1,0 +1,456 @@
+ISO,Country,City,Latitude,Longitude,Tier
+AGO,Angola,Luanda,-8.8272699,13.2439512,1
+AGO,Angola,Benguela,-12.5790048,13.4037117,2
+AGO,Angola,Lobito,-12.3506867,13.5464318,2
+AGO,Angola,Huambo,-12.7772455,15.7346713,2
+AGO,Angola,Lubango,-14.9195617,13.4897509,2
+AGO,Angola,Cabinda,-5.056395,12.3211749,2
+AGO,Angola,Malanje,-9.5401,16.3400,3
+AGO,Angola,Namibe,-15.1961,12.1522,3
+AGO,Angola,Sumbe,-11.2061,13.8437,3
+AGO,Angola,Uige,-7.6087,15.0613,3
+AGO,Angola,Soyo,-6.1387951,12.3690144,3
+BEN,Benin,Bohicon,7.1783,2.0667,2
+BEN,Benin,Abomey,7.1829,1.9912,2
+BEN,Benin,Ouidah,6.3631,2.0851,3
+BEN,Benin,Kandi,11.1342,2.9386,3
+BEN,Benin,Natitingou,10.3042,1.3796,3
+BEN,Benin,Save,8.0342,2.4866,3
+BEN,Benin,Savalou,7.9333,1.9750,3
+BEN,Benin,Comé,6.4076,1.8819,3
+BEN,Benin,Allada,6.6655,2.1514,3
+BEN,Benin,Dogbo,6.8000,1.7833,3
+BEN,Benin,Lokossa,6.6387,1.7167,3
+BEN,Benin,Tchaourou,8.8865,2.5975,3
+BEN,Benin,Malanville,11.8682,3.3832,3
+BEN,Benin,Tanguiéta,10.6197,1.2667,3
+BEN,Benin,Bassila,9.0086,1.6653,3
+BEN,Benin,Pobe,6.9810,2.6640,3
+BEN,Benin,Ketou,7.3633,2.5998,3
+BWA,Botswana,Gaborone,-24.6282,25.9231,2
+BWA,Botswana,Francistown,-21.1700,27.5070,2
+BWA,Botswana,Maun,-19.9833,23.4167,3
+BWA,Botswana,Serowe,-22.3875,26.7108,3
+BWA,Botswana,Kanye,-24.9667,25.3333,3
+BWA,Botswana,Molepolole,-24.4167,25.5000,3
+BWA,Botswana,Mochudi,-24.3667,26.1500,3
+BWA,Botswana,Selebi-Phikwe,-22.0010,27.8429,3
+BWA,Botswana,Palapye,-22.5461,27.1253,3
+BWA,Botswana,Lobatse,-25.2193,25.6768,3
+BWA,Botswana,Ramotswa,-24.8822,25.8690,3
+BWA,Botswana,Letlhakane,-21.4149,25.5926,3
+BWA,Botswana,Orapa,-21.3115,25.3764,3
+BWA,Botswana,Kasane,-17.8017,25.1533,3
+BWA,Botswana,Ghanzi,-21.6979,21.6580,3
+BWA,Botswana,Jwaneng,-24.6025,24.7281,3
+BWA,Botswana,Tsabong,-26.0200,22.4010,3
+BWA,Botswana,Shoshong,-23.0381,26.5114,3
+BFA,Burkina Faso,Ouagadougou,12.3714,-1.5197,1
+BFA,Burkina Faso,Bobo-Dioulasso,11.1771,-4.2979,2
+BFA,Burkina Faso,Koudougou,12.2526,-2.3627,2
+BFA,Burkina Faso,Banfora,10.6333,-4.7667,3
+BFA,Burkina Faso,Ouahigouya,13.5828,-2.4216,3
+BFA,Burkina Faso,Kaya,13.0917,-1.0844,3
+BFA,Burkina Faso,Tenkodogo,11.7800,-0.3700,3
+BFA,Burkina Faso,Fada N'Gourma,12.0616,0.3584,3
+BFA,Burkina Faso,Dedougou,12.4634,-3.4608,3
+BFA,Burkina Faso,Dori,14.0354,-0.0345,3
+BFA,Burkina Faso,Gaoua,10.3252,-3.1744,3
+BFA,Burkina Faso,Kongoussi,13.3258,-1.5347,3
+BFA,Burkina Faso,Manga,11.6639,-1.0731,3
+BFA,Burkina Faso,Reo,12.3196,-2.4709,3
+BFA,Burkina Faso,Ziniare,12.5819,-1.2986,3
+BFA,Burkina Faso,Hounde,11.5020,-3.5164,3
+BFA,Burkina Faso,Po,11.1697,-1.1450,3
+BFA,Burkina Faso,Leo,11.1019,-2.1067,3
+BDI,Burundi,Bujumbura,-3.3822,29.3644,2
+BDI,Burundi,Gitega,-3.4271,29.9246,2
+BDI,Burundi,Ngozi,-2.9075,29.8306,3
+BDI,Burundi,Rumonge,-3.9726,29.4386,3
+BDI,Burundi,Bururi,-3.9490,29.6238,3
+BDI,Burundi,Muyinga,-2.8450,30.3414,3
+BDI,Burundi,Ruyigi,-3.4764,30.2486,3
+BDI,Burundi,Makamba,-4.1348,29.8040,3
+BDI,Burundi,Kayanza,-2.9231,29.6296,3
+BDI,Burundi,Muramvya,-3.2695,29.6079,3
+BDI,Burundi,Cibitoke,-2.8869,29.1248,3
+BDI,Burundi,Karuzi,-3.1014,30.1635,3
+BDI,Burundi,Kirundo,-2.5845,30.0959,3
+BDI,Burundi,Mwaro,-3.5116,29.7034,3
+BDI,Burundi,Nyanza-Lac,-4.3490,29.5935,3
+CPV,Cape Verde,Praia,14.9162811,-23.5095095,2
+CPV,Cape Verde,Mindelo,16.8873057,-24.9864064,2
+CPV,Cape Verde,Santa Maria,16.5986926,-22.9050314,3
+CPV,Cabo Verde,Espargos,16.7552,-22.9446,3
+CMR,Cameroon,Douala,4.0511,9.7679,1
+CMR,Cameroon,Yaounde,3.8480,11.5021,1
+CMR,Cameroon,Garoua,9.3014,13.3977,2
+CMR,Cameroon,Bamenda,5.9631,10.1591,2
+CMR,Cameroon,Maroua,10.5913,14.3153,2
+CMR,Cameroon,Ngaoundere,7.3277,13.5847,2
+CMR,Cameroon,Bafoussam,5.4778,10.4176,2
+CMR,Cameroon,Bertoua,4.5773,13.6846,3
+CMR,Cameroon,Ebolowa,2.9000,11.1500,3
+CMR,Cameroon,Kribi,2.9373,9.9073,3
+CMR,Cameroon,Limbe,4.0200,9.2050,3
+CMR,Cameroon,Kumba,4.6363,9.4469,3
+CMR,Cameroon,Nkongsamba,4.9547,9.9404,3
+CMR,Cameroon,Edea,3.8000,10.1333,3
+CMR,Cameroon,Sangmelima,2.9333,11.9833,3
+CMR,Cameroon,Foumban,5.7266,10.8986,3
+CMR,Cameroon,Dschang,5.4430,10.0550,3
+CMR,Cameroon,Kousseri,12.0769,15.0306,3
+CAF,Central African Republic,Bangui,4.3947,18.5582,2
+CAF,Central African Republic,Bimbo,4.2567,18.4158,3
+CAF,Central African Republic,Berberati,4.2612,15.7922,3
+CAF,Central African Republic,Bambari,5.7640,20.6750,3
+CAF,Central African Republic,Bouar,5.9340,15.5950,3
+CAF,Central African Republic,Bossangoa,6.4926,17.4552,3
+CAF,Central African Republic,Bria,6.5333,21.9833,3
+CAF,Central African Republic,Bangassou,4.7413,22.8184,3
+CAF,Central African Republic,Kaga-Bandoro,6.9896,19.1874,3
+CAF,Central African Republic,Mbaiki,3.8678,17.9899,3
+CAF,Central African Republic,Bozoum,6.3193,16.3799,3
+CAF,Central African Republic,Carnot,4.9400,15.8700,3
+CAF,Central African Republic,Sibut,5.7180,19.0739,3
+CAF,Central African Republic,Alindao,5.0267,21.2089,3
+CAF,Central African Republic,Mobaye,4.3190,21.1780,3
+CAF,Central African Republic,Nola,3.5214,16.0486,3
+TCD,Chad,N'Djamena,12.1348,15.0557,1
+TCD,Chad,Moundou,8.5667,16.0833,2
+TCD,Chad,Sarh,9.1429,18.3923,2
+TCD,Chad,Abeche,13.8292,20.8324,2
+TCD,Chad,Kelo,9.3064,15.8066,3
+TCD,Chad,Koumra,8.9126,17.5539,3
+TCD,Chad,Pala,9.3650,14.9050,3
+TCD,Chad,Am Timan,11.0280,20.2827,3
+TCD,Chad,Bongor,10.2825,15.3722,3
+TCD,Chad,Mongo,12.1844,18.6930,3
+TCD,Chad,Faya-Largeau,17.9257,19.1111,3
+TCD,Chad,Doba,8.6500,16.8500,3
+TCD,Chad,Ati,13.2154,18.3353,3
+TCD,Chad,Biltine,14.5333,20.9167,3
+TCD,Chad,Mao,14.1212,15.3135,3
+TCD,Chad,Massakory,12.9989,15.7293,3
+COD,DR Congo,Kinshasa,-4.4419,15.2663,1
+COD,DR Congo,Lubumbashi,-11.6647,27.4794,1
+COD,DR Congo,Mbuji-Mayi,-6.1360,23.5898,1
+COD,DR Congo,Kisangani,0.5167,25.2000,1
+COD,DR Congo,Goma,-1.6788,29.2228,2
+COD,DR Congo,Bukavu,-2.5123,28.8608,2
+COD,DR Congo,Kananga,-5.8962,22.4166,2
+COD,DR Congo,Kolwezi,-10.7167,25.4667,2
+COD,DR Congo,Tshikapa,-6.4167,20.8000,2
+COD,DR Congo,Matadi,-5.8167,13.4500,2
+COD,DR Congo,Boma,-5.8500,13.0500,2
+COD,DR Congo,Uvira,-3.4067,29.1458,3
+COD,DR Congo,Kindu,-2.9500,25.9500,3
+COD,DR Congo,Kalemie,-5.9333,29.2000,3
+COD,DR Congo,Likasi,-10.9833,26.7333,3
+COD,DR Congo,Kikwit,-5.0400,18.8200,3
+COD,DR Congo,Gemena,3.2565,19.7723,3
+COD,DR Congo,Isiro,2.7739,27.6160,3
+COG,Congo Republic,Brazzaville,-4.2634,15.2429,1
+COG,Congo Republic,Pointe-Noire,-4.7761,11.8635,1
+COG,Congo Republic,Dolisie,-4.1983,12.6667,3
+COG,Congo Republic,Nkayi,-4.1833,13.2833,3
+COG,Congo Republic,Owando,-0.4819,15.8999,3
+COG,Congo Republic,Ouesso,1.6136,16.0517,3
+COG,Congo Republic,Impfondo,1.6186,18.0598,3
+COG,Congo Republic,Sibiti,-3.6819,13.3499,3
+COG,Congo Republic,Madingou,-4.1536,13.5500,3
+COG,Congo Republic,Kinkala,-4.3614,14.7644,3
+COG,Congo Republic,Mossendjo,-2.9500,12.7333,3
+COG,Congo Republic,Gamboma,-1.8770,15.8640,3
+COG,Congo Republic,Djambala,-2.5447,14.7533,3
+CIV,Cote d'Ivoire,Abidjan,5.3600,-4.0083,1
+CIV,Cote d'Ivoire,Yamoussoukro,6.8276,-5.2893,2
+CIV,Cote d'Ivoire,Bouake,7.6833,-5.0333,2
+CIV,Cote d'Ivoire,Daloa,6.8774,-6.4502,2
+CIV,Cote d'Ivoire,San-Pedro,4.7485,-6.6363,2
+CIV,Cote d'Ivoire,Korhogo,9.4580,-5.6296,2
+CIV,Cote d'Ivoire,Man,7.4125,-7.5538,3
+CIV,Cote d'Ivoire,Gagnoa,6.1319,-5.9506,3
+CIV,Cote d'Ivoire,Abengourou,6.7297,-3.4964,3
+CIV,Cote d'Ivoire,Bondoukou,8.0402,-2.8000,3
+CIV,Cote d'Ivoire,Divo,5.8384,-5.3572,3
+CIV,Cote d'Ivoire,Odienne,9.5051,-7.5643,3
+CIV,Cote d'Ivoire,Ferkessedougou,9.5928,-5.1987,3
+CIV,Cote d'Ivoire,Soubre,5.7856,-6.6081,3
+CIV,Cote d'Ivoire,Sassandra,4.9538,-6.0853,3
+CIV,Cote d'Ivoire,Agboville,5.9280,-4.2132,3
+CIV,Cote d'Ivoire,Grand-Bassam,5.2000,-3.7333,3
+CIV,Cote d'Ivoire,Dabou,5.3256,-4.3769,3
+ETH,Ethiopia,Addis Ababa,8.9806,38.7578,1
+ETH,Ethiopia,Dire Dawa,9.6009,41.8501,2
+ETH,Ethiopia,Mekelle,13.4967,39.4698,2
+ETH,Ethiopia,Bahir Dar,11.5742,37.3614,2
+ETH,Ethiopia,Hawassa,7.0621,38.4760,2
+ETH,Ethiopia,Adama,8.5400,39.2719,2
+ETH,Ethiopia,Gondar,12.6030,37.4521,2
+ETH,Ethiopia,Jimma,7.6736,36.8344,2
+ETH,Ethiopia,Dessie,11.1333,39.6333,2
+ETH,Ethiopia,Shashamane,7.2000,38.6000,3
+ETH,Ethiopia,Harar,9.3117,42.1258,3
+ETH,Ethiopia,Arba Minch,6.0333,37.5500,3
+ETH,Ethiopia,Debre Markos,10.3500,37.7333,3
+ETH,Ethiopia,Debre Birhan,9.6833,39.5333,3
+ETH,Ethiopia,Nekemte,9.0833,36.5500,3
+ETH,Ethiopia,Asella,7.9500,39.1167,3
+ETH,Ethiopia,Wolaita Sodo,6.8500,37.7500,3
+ETH,Ethiopia,Jijiga,9.3500,42.8000,3
+GAB,Gabon,Libreville,0.3924,9.4536,2
+GAB,Gabon,Port-Gentil,-0.7193,8.7815,2
+GAB,Gabon,Franceville,-1.6333,13.5833,3
+GAB,Gabon,Oyem,1.5995,11.5793,3
+GAB,Gabon,Moanda,-1.5667,13.2000,3
+GAB,Gabon,Lambarene,-0.7000,10.2333,3
+GAB,Gabon,Mouila,-1.8667,11.0500,3
+GAB,Gabon,Koulamoutou,-1.1333,12.4667,3
+GAB,Gabon,Tchibanga,-2.9333,10.9833,3
+GAB,Gabon,Makokou,0.5667,12.8667,3
+GAB,Gabon,Bitam,2.0833,11.5000,3
+GAB,Gabon,Ndende,-2.4000,11.3667,3
+GHA,Ghana,Accra,5.6037,-0.1870,1
+GHA,Ghana,Kumasi,6.6885,-1.6244,1
+GHA,Ghana,Tamale,9.4075,-0.8530,2
+GHA,Ghana,Sekondi-Takoradi,4.9268,-1.7577,2
+GHA,Ghana,Sunyani,7.3399,-2.3268,2
+GHA,Ghana,Cape Coast,5.1053,-1.2466,2
+GHA,Ghana,Koforidua,6.0941,-0.2591,3
+GHA,Ghana,Ho,6.6008,0.4713,3
+GHA,Ghana,Tema,5.6698,-0.0166,2
+GHA,Ghana,Obuasi,6.2060,-1.6617,3
+GHA,Ghana,Bolgatanga,10.7856,-0.8514,3
+GHA,Ghana,Wa,10.0600,-2.5000,3
+GHA,Ghana,Techiman,7.5900,-1.9400,3
+GHA,Ghana,Tarkwa,5.3038,-1.9896,3
+GHA,Ghana,Sefwi Wiawso,6.2034,-2.4856,3
+GHA,Ghana,Nkawkaw,6.5510,-0.7666,3
+GHA,Ghana,Dunkwa-on-Offin,5.9600,-1.7800,3
+GHA,Ghana,Yendi,9.4427,-0.0099,3
+KEN,Kenya,Nairobi,-1.2864,36.8172,1
+KEN,Kenya,Mombasa,-4.0435,39.6682,1
+KEN,Kenya,Kisumu,-0.1022,34.7617,2
+KEN,Kenya,Nakuru,-0.3031,36.0800,2
+KEN,Kenya,Eldoret,0.5143,35.2698,2
+KEN,Kenya,Thika,-1.0332,37.0693,2
+KEN,Kenya,Malindi,-3.2179,40.1169,3
+KEN,Kenya,Kitale,1.0157,35.0062,3
+KEN,Kenya,Garissa,-0.4536,39.6460,3
+KEN,Kenya,Nyeri,-0.4201,36.9476,3
+KEN,Kenya,Machakos,-1.5177,37.2634,2
+KEN,Kenya,Meru,0.0470,37.6496,3
+KEN,Kenya,Kericho,-0.3670,35.2863,3
+KEN,Kenya,Naivasha,-0.7167,36.4333,3
+KEN,Kenya,Embu,-0.5389,37.4574,3
+KEN,Kenya,Lodwar,3.1199,35.5973,3
+KEN,Kenya,Isiolo,0.3556,37.5822,3
+KEN,Kenya,Wajir,1.7471,40.0573,3
+LSO,Lesotho,Maseru,-29.310054,27.478222,2
+LSO,Lesotho,Teyateyaneng,-29.1519737,27.7427554,3
+LSO,Lesotho,Mafeteng,-29.7893049,27.4423193,3
+LBR,Liberia,Monrovia,6.3156,-10.8074,2
+LBR,Liberia,Gbarnga,6.9956,-9.4722,3
+LBR,Liberia,Buchanan,5.8808,-10.0467,3
+LBR,Liberia,Harper,4.3750,-7.7169,3
+LBR,Liberia,Voinjama,8.4219,-9.7478,3
+LBR,Liberia,Zwedru,6.0685,-8.1286,3
+LBR,Liberia,Kakata,6.5310,-10.3537,3
+LBR,Liberia,Greenville,5.0111,-9.0388,3
+LBR,Liberia,Tubmanburg,6.8706,-10.8214,3
+LBR,Liberia,Ganta,7.3022,-8.5300,3
+LBR,Liberia,Robertsport,6.7533,-11.3686,3
+LBR,Liberia,Fish Town,5.1974,-7.8750,3
+MDG,Madagascar,Antananarivo,-18.8792,47.5079,1
+MDG,Madagascar,Toamasina,-18.1492,49.4023,2
+MDG,Madagascar,Antsirabe,-19.8659,47.0335,2
+MDG,Madagascar,Mahajanga,-15.7167,46.3167,2
+MDG,Madagascar,Fianarantsoa,-21.4536,47.0858,2
+MDG,Madagascar,Toliara,-23.3500,43.6667,2
+MDG,Madagascar,Antsiranana,-12.2787,49.2917,3
+MDG,Madagascar,Morondava,-20.2883,44.3176,3
+MDG,Madagascar,Sambava,-14.2667,50.1667,3
+MDG,Madagascar,Ambatondrazaka,-17.8333,48.4167,3
+MDG,Madagascar,Farafangana,-22.8167,47.8333,3
+MDG,Madagascar,Mananjary,-21.2167,48.3333,3
+MDG,Madagascar,Manakara,-22.1500,48.0167,3
+MDG,Madagascar,Antalaha,-14.9000,50.2833,3
+MDG,Madagascar,Hell-Ville,-13.3972,48.2666,3
+MDG,Madagascar,Marovoay,-16.1100,46.6430,3
+MDG,Madagascar,Ambanja,-13.6833,48.4500,3
+MWI,Malawi,Lilongwe,-13.9875107,33.768144,2
+MWI,Malawi,Blantyre,-15.7862543,35.0035694,2
+MWI,Malawi,Mzuzu,-11.4607518,34.0226422,3
+MWI,Malawi,Zomba,-15.3863208,35.3268273,3
+MWI,Malawi,Karonga,-9.9333,33.9333,3
+MWI,Malawi,Mangochi,-14.4833,35.2667,3
+MWI,Malawi,Salima,-13.7804,34.4587,3
+MLI,Mali,Bamako,12.649319,-8.000337,1
+MLI,Mali,Sikasso,11.529684,-6.8663259,2
+MLI,Mali,Mopti,14.514489,-3.6464581,2
+MLI,Mali,Koutiala,12.3894818,-5.4639199,3
+MLI,Mali,Kayes,13.8001844,-10.2245548,3
+MLI,Mali,Segou,14.0487608,-6.0047091,3
+MRT,Mauritania,Nouakchott,18.0792379,-15.9780071,2
+MRT,Mauritania,Nouadhibou,20.9127045,-17.0503094,2
+MRT,Mauritania,Rosso,16.5132493,-15.8099665,3
+MRT,Mauritania,Zouerate,22.7402065,-12.4664916,3
+MRT,Mauritania,Atar,20.5169,-13.0499,3
+MRT,Mauritania,Kaedi,16.1500,-13.5000,3
+MOZ,Mozambique,Maputo,-25.966213,32.56745,1
+MOZ,Mozambique,Matola,-25.966917,32.466956,1
+MOZ,Mozambique,Beira,-19.834068,34.8358076,2
+MOZ,Mozambique,Nampula,-14.966969,39.2707752,2
+MOZ,Mozambique,Chimoio,-19.1437458,33.4780059,2
+MOZ,Mozambique,Nacala,-14.5583059,40.6863816,2
+MOZ,Mozambique,Quelimane,-17.87751,36.890216,3
+MOZ,Mozambique,Tete,-15.5205193,32.7682742,3
+MOZ,Mozambique,Pemba,-12.9735551,40.5215098,3
+MOZ,Mozambique,Lichinga,-13.3000,35.2500,3
+MOZ,Mozambique,Xai-Xai,-25.0519,33.6442,3
+MOZ,Mozambique,Maxixe,-23.8597,35.3472,3
+NGA,Nigeria,Lagos,6.4550575,3.3941795,1
+NGA,Nigeria,Abuja,9.0643305,7.4892974,1
+NGA,Nigeria,Kano,11.9939978,8.5219738,1
+NGA,Nigeria,Ibadan,7.3786064,3.8969928,1
+NGA,Nigeria,Port Harcourt,4.7676576,7.0188527,1
+NGA,Nigeria,Benin City,6.3330586,5.6221058,1
+NGA,Nigeria,Onitsha,6.1461619,6.8019088,1
+NGA,Nigeria,Aba,5.1128008,7.3651376,1
+NGA,Nigeria,Kaduna,10.5182899,7.4359863,1
+NGA,Nigeria,Enugu,6.4496519,7.5136856,2
+NGA,Nigeria,Ilorin,8.4963657,4.5480484,2
+NGA,Nigeria,Warri,5.5186186,5.7480196,2
+NGA,Nigeria,Maiduguri,11.8333,13.1500,2
+NGA,Nigeria,Zaria,11.0855,7.7199,2
+NGA,Nigeria,Sokoto,13.0622,5.2339,2
+NGA,Nigeria,Uyo,5.0377,7.9128,2
+NGA,Nigeria,Jos,9.8965,8.8583,2
+NGA,Nigeria,Calabar,4.9517,8.3220,2
+ZAF,South Africa,Johannesburg,-26.205,28.049722,1
+ZAF,South Africa,Cape Town,-33.9288301,18.4172197,1
+ZAF,South Africa,Durban,-29.861825,31.009909,1
+ZAF,South Africa,Pretoria,-25.7459277,28.1879101,1
+ZAF,South Africa,Port Elizabeth,-33.9618598,25.6186731,2
+ZAF,South Africa,Bloemfontein,-29.116395,26.215496,2
+ZAF,South Africa,East London,-33.0191604,27.8998573,2
+ZAF,South Africa,Soweto,-26.2485,27.8540,1
+ZAF,South Africa,Pietermaritzburg,-29.6006,30.3794,2
+ZAF,South Africa,Polokwane,-23.9045,29.4689,3
+ZAF,South Africa,Rustenburg,-25.6676,27.2421,3
+ZMB,Zambia,Lusaka,-15.4163395,28.2818414,1
+ZMB,Zambia,Kitwe,-12.8203689,28.2155973,2
+ZMB,Zambia,Ndola,-12.9693056,28.6365894,2
+ZMB,Zambia,Kabwe,-14.4434056,28.4465166,3
+ZMB,Zambia,Chingola,-12.5474926,27.8600422,3
+ZMB,Zambia,Livingstone,-17.853135,25.861429,3
+ZMB,Zambia,Solwezi,-12.1820553,26.3990713,3
+ZMB,Zambia,Mufulira,-12.5498,28.2407,3
+ZMB,Zambia,Luanshya,-13.1367,28.4166,3
+ZWE,Zimbabwe,Harare,-17.8567035,31.0601584,1
+ZWE,Zimbabwe,Bulawayo,-20.1560599,28.5887063,2
+ZWE,Zimbabwe,Chitungwiza,-18.0143462,31.0726737,2
+ZWE,Zimbabwe,Mutare,-18.974656,32.670473,3
+ZWE,Zimbabwe,Gweru,-19.4616316,29.8205953,3
+ZWE,Zimbabwe,Kwekwe,-18.9284366,29.8140035,3
+ZWE,Zimbabwe,Masvingo,-20.0744,30.8322,3
+ZWE,Zimbabwe,Chinhoyi,-17.3667,30.2000,3
+ZWE,Zimbabwe,Kadoma,-18.3333,29.9167,3
+ZWE,Zimbabwe,Victoria Falls,-17.9318,25.8302,3
+ZWE,Zimbabwe,Redcliff,-19.0333,29.7833,3
+ZWE,Zimbabwe,Norton,-17.8833,30.7000,3
+ZWE,Zimbabwe,Hwange,-18.3647,26.4988,3
+ZWE,Zimbabwe,Chegutu,-18.1302,30.1407,3
+COM,Comoros,Moroni,-11.7172,43.2473,2
+COM,Comoros,Mutsamudu,-12.1667,44.4000,3
+COM,Comoros,Fomboni,-12.2800,43.7420,3
+ERI,Eritrea,Asmara,15.3380,38.9320,2
+ERI,Eritrea,Keren,15.7779,38.4511,3
+ERI,Eritrea,Massawa,15.6081,39.4746,3
+GNQ,Equatorial Guinea,Malabo,3.7500,8.7833,2
+GNQ,Equatorial Guinea,Bata,1.8639,9.7658,2
+GNQ,Equatorial Guinea,Ebibeyin,2.1511,11.3364,3
+GMB,Gambia,Banjul,13.4549,-16.5790,2
+GMB,Gambia,Serekunda,13.4383,-16.6781,2
+GMB,Gambia,Brikama,13.2714,-16.6494,3
+GIN,Guinea,Conakry,9.6412,-13.5784,2
+GIN,Guinea,Kankan,10.3897,-9.3057,2
+GIN,Guinea,Kindia,10.0569,-12.8658,3
+GIN,Guinea,Nzérékoré,7.7562,-8.8179,3
+GIN,Guinea,Labe,11.3167,-12.2833,3
+GIN,Guinea,Fria,10.3667,-13.5833,3
+GNB,Guinea-Bissau,Bissau,11.8636,-15.5977,2
+GNB,Guinea-Bissau,Bafatá,12.1667,-14.6667,3
+GNB,Guinea-Bissau,Gabú,12.2800,-14.2200,3
+NAM,Namibia,Windhoek,-22.5609,17.0658,2
+NAM,Namibia,Walvis Bay,-22.9576,14.5053,3
+NAM,Namibia,Swakopmund,-22.6784,14.5266,3
+NAM,Namibia,Rundu,-17.9170,19.7670,3
+NAM,Namibia,Oshakati,-17.7883,15.7044,3
+NAM,Namibia,Otjiwarongo,-20.4637,16.6477,3
+NER,Niger,Niamey,13.5116,2.1254,1
+NER,Niger,Zinder,13.8053,8.9881,2
+NER,Niger,Maradi,13.4916,7.0964,2
+NER,Niger,Agadez,16.9733,7.9911,3
+NER,Niger,Tahoua,14.8888,5.2692,3
+RWA,Rwanda,Kigali,-1.9441,30.0619,2
+RWA,Rwanda,Huye,-2.5967,29.7394,3
+RWA,Rwanda,Rubavu,-1.7028,29.2564,3
+RWA,Rwanda,Musanze,-1.4989,29.6348,3
+RWA,Rwanda,Rusizi,-2.4846,28.8960,3
+STP,Sao Tome and Principe,São Tomé,0.3365,6.7273,2
+STP,Sao Tome and Principe,Santo António,1.6394,7.4194,3
+STP,Sao Tome and Principe,Neves,0.3170,6.5500,3
+SEN,Senegal,Ziguinchor,12.5833,-16.2667,3
+SEN,Senegal,Tambacounda,13.7707,-13.6673,3
+SEN,Senegal,Dakar,14.7167,-17.4677,1
+SEN,Senegal,Thiès,14.7886,-16.9240,2
+SEN,Senegal,Saint-Louis,16.0179,-16.4896,2
+SEN,Senegal,Kaolack,14.1652,-16.0726,3
+SYC,Seychelles,Victoria,-4.6200,55.4550,2
+SYC,Seychelles,Anse Boileau,-4.7043,55.4855,3
+SLE,Sierra Leone,Freetown,8.4657,-13.2317,2
+SLE,Sierra Leone,Bo,7.9647,-11.7383,3
+SLE,Sierra Leone,Kenema,7.8769,-11.1903,3
+SLE,Sierra Leone,Makeni,8.8804,-12.0447,3
+SOM,Somalia,Mogadishu,2.0469,45.3182,1
+SOM,Somalia,Hargeisa,9.5580,44.0600,2
+SOM,Somalia,Bosaso,11.2842,49.1816,3
+SOM,Somalia,Kismayo,-0.3582,42.5454,3
+SOM,Somalia,Baidoa,3.1138,43.6498,3
+SSD,South Sudan,Juba,4.8594,31.5713,2
+SSD,South Sudan,Wau,7.7029,27.9953,3
+SSD,South Sudan,Malakal,9.5334,31.6605,3
+SSD,South Sudan,Bor,6.2100,31.5600,3
+SDN,Sudan,Khartoum,15.5007,32.5599,1
+SDN,Sudan,Omdurman,15.6445,32.4777,1
+SDN,Sudan,Port Sudan,19.6158,37.2164,2
+SDN,Sudan,Nyala,12.0489,24.8807,2
+SDN,Sudan,Ed Damer,17.5980,33.9720,3
+SDN,Sudan,El Obeid,13.1842,30.2167,2
+SDN,Sudan,Kassala,15.4509,36.3990,3
+SDN,Sudan,Wad Madani,14.4012,33.5199,3
+SDN,Sudan,Kosti,13.1629,32.6635,3
+SDN,Sudan,Rabak,13.1800,32.7390,3
+SDN,Sudan,Sennar,13.5690,33.5672,3
+TZA,Tanzania,Dar es Salaam,-6.7924,39.2083,1
+TZA,Tanzania,Dodoma,-6.1630,35.7516,2
+TZA,Tanzania,Mwanza,-2.5164,32.9175,2
+TZA,Tanzania,Arusha,-3.3869,36.6830,2
+TZA,Tanzania,Zanzibar City,-6.1659,39.2026,2
+TZA,Tanzania,Mbeya,-8.9094,33.4607,3
+TZA,Tanzania,Tabora,-5.0167,32.8000,3
+TGO,Togo,Lomé,6.1319,1.2228,2
+TGO,Togo,Sokodé,8.9833,1.1333,3
+TGO,Togo,Kara,9.5511,1.1861,3
+TGO,Togo,Atakpamé,7.5333,1.1333,3
+UGA,Uganda,Kampala,0.3476,32.5825,1
+UGA,Uganda,Entebbe,0.0512,32.4638,2
+UGA,Uganda,Jinja,0.4390,33.2032,3
+UGA,Uganda,Mbarara,-0.6072,30.6545,3
+UGA,Uganda,Gulu,2.7724,32.2881,3
+UGA,Uganda,Fort Portal,0.6710,30.2750,3
+MUS,Mauritius,Port Louis,-20.1609,57.5012,2
+MUS,Mauritius,Curepipe,-20.3150,57.5200,3
+MUS,Mauritius,Quatre Bornes,-20.2644,57.4791,3
